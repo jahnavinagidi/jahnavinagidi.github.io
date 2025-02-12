@@ -1,2 +1,0 @@
-# Jportfolio
-My Own Portfolio
